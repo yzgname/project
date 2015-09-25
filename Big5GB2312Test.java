@@ -7,7 +7,7 @@ import com.nhn.sapphire.util.TextUtils;
 public class Big5GB2312Test {
 
 	public static void main(String[] args) throws UnsupportedEncodingException {
-		String s = "杨志国あいうえお";
+		String s = "あいうえお";
 		System.out.println(chkBig5GB(s));
 
 	}
